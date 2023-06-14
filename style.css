@@ -177,4 +177,8 @@ nav{
     display: grid;
     grid-template-columns: 1fr;
   }
+  .header05{
+    margin-top: 3px;
+    margin-bottom: 3px;
+  }
 }
